@@ -6,7 +6,7 @@ Personal archive of LeetCode solutions and short notes.
 
 | # | Title | Difficulty | Solution | Note |
 |---|---|---|---|---|
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [C++](./0002-add-two-numbers/solution.cpp) | [Notes](./0002-add-two-numbers/notes.md) |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [C++](./0002-add-two-numbers/solution.cpp) | [Notes](./add-two-numbers/note.md) |
 
 ### Structure
 
